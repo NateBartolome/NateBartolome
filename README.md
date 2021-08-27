@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NateBartolome
 - 👀 I’m interested in learning as much programmming language as I can
-- 🌱 I’m currently learning SQL and R
+- 🌱 I’m currently learning SQL, R, Python, and JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - nbart91@yahoo.com
 
